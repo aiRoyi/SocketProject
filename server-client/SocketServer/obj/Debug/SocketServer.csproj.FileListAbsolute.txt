@@ -1,0 +1,6 @@
+G:\C#\socket project\SocketProject\SocketProject\bin\Debug\SocketProject.exe.config
+G:\C#\socket project\SocketProject\SocketProject\bin\Debug\SocketProject.exe
+G:\C#\socket project\SocketProject\SocketProject\bin\Debug\SocketProject.pdb
+G:\C#\socket project\SocketProject\SocketProject\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+G:\C#\socket project\SocketProject\SocketProject\obj\Debug\SocketProject.exe
+G:\C#\socket project\SocketProject\SocketProject\obj\Debug\SocketProject.pdb

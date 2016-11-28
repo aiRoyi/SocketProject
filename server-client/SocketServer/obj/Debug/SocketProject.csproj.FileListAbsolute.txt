@@ -1,0 +1,1 @@
+G:\C#\socket project\SocketProject\SocketProject\bin\Debug\SocketProject.exe.config

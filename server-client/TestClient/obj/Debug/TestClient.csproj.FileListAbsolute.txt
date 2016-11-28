@@ -1,0 +1,6 @@
+G:\C#\socket project\SocketProject\TestClient\bin\Debug\TestClient.exe.config
+G:\C#\socket project\SocketProject\TestClient\bin\Debug\TestClient.exe
+G:\C#\socket project\SocketProject\TestClient\bin\Debug\TestClient.pdb
+G:\C#\socket project\SocketProject\TestClient\obj\Debug\TestClient.exe
+G:\C#\socket project\SocketProject\TestClient\obj\Debug\TestClient.pdb
+G:\C#\socket project\SocketProject\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
